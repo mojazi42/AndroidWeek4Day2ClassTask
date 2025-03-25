@@ -17,7 +17,6 @@ This is a simple note-taking application built using **Jetpack Compose**, **Room
   - Save button to store changes in the local database.
 
 - **Architecture:**
-  - MVVM (Model-View-ViewModel)
   - Clean separation of UI, logic, and data
   - `LiveData` used for real-time UI updates
 
